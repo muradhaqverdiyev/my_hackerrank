@@ -22,4 +22,4 @@ My HackerRank profile (https://www.hackerrank.com/muradhaqverdiyev)
 |14|[Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9)|[Solution](sql/weather-observation-station-9/solution.sql) |Easy|Select|
 |15|[Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10)|[Solution](sql/weather-observation-station-10/solution.sql) |Easy|Select|
 |16|[Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11)|[Solution](sql/weather-observation-station-11/solution.sql) |Easy|Select|
-|17|[Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12)|[Solution](sql/weather-observation-station-12/solution.sql) 
+|17|[Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12)|[Solution](sql/weather-observation-station-12/solution.sql) |Easy|Select|
