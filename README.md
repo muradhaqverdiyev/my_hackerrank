@@ -46,3 +46,13 @@ My HackerRank profile (https://www.hackerrank.com/muradhaqverdiyev)
 |38|[Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent)|[Solution](sql/average-population-of-each-continent/solution.sql)|Easy|Basic Join|
 |39|[Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1)|[Solution](sql/draw-the-triangle-1/solution.sql)|Easy|Alternative Queries|
 |40|[Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2)|[Solution](sql/draw-the-triangle-2/solution.sql)|Easy|Alternative Queries|
+|41|[The PADS](https://www.hackerrank.com/challenges/the-pads)|[Solution](sql/the-pads/solution.sql)|Medium|Advanced Select|
+|42|[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1)|[Solution](sql/binary-search-tree-1/solution.sql)|Medium|Advanced Select|
+|43|[New Companies](https://www.hackerrank.com/challenges/the-company)|[Solution](sql/the-company/solution.sql)|Medium|Advanced Select|
+|44|[Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18)|[Solution](sql/weather-observation-station-18/solution.sql)|Medium|Aggregation|
+|45|[Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19)|[Solution](sql/weather-observation-station-19/solution.sql)|Medium|Aggregation|
+|46|[Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20)|[Solution](sql/weather-observation-station-20/solution.sql)|Medium|Aggregation|
+|47|[The Report](https://www.hackerrank.com/challenges/the-report)|[Solution](sql/the-report/solution.sql)|Medium|Basic Join|
+|48|[Top Competitors](https://www.hackerrank.com/challenges/full-score)|[Solution](sql/full-score/solution.sql)|Medium|Basic Join|
+|49|[Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard)|[Solution](sql/contest-leaderboard/solution.sql)|Medium|Basic Join
+|50|[Placements](https://www.hackerrank.com/challenges/placements)|[Solution](sql/placements/solution.sql)|Medium|Advanced Join
