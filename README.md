@@ -54,5 +54,5 @@ My HackerRank profile (https://www.hackerrank.com/muradhaqverdiyev)
 |46|[Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20)|[Solution](sql/weather-observation-station-20/solution.sql)|Medium|Aggregation|
 |47|[The Report](https://www.hackerrank.com/challenges/the-report)|[Solution](sql/the-report/solution.sql)|Medium|Basic Join|
 |48|[Top Competitors](https://www.hackerrank.com/challenges/full-score)|[Solution](sql/full-score/solution.sql)|Medium|Basic Join|
-|49|[Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard)|[Solution](sql/contest-leaderboard/solution.sql)|Medium|Basic Join
-|50|[Placements](https://www.hackerrank.com/challenges/placements)|[Solution](sql/placements/solution.sql)|Medium|Advanced Join
+|49|[Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard)|[Solution](sql/contest-leaderboard/solution.sql)|Medium|Basic Join|
+|50|[Placements](https://www.hackerrank.com/challenges/placements)|[Solution](sql/placements/solution.sql)|Medium|Advanced Join|
